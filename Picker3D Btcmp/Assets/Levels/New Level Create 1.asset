@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7078933dfd5d5844090a623ecdfc2519, type: 3}
+  m_Name: New Level Create 1
+  m_EditorClassIdentifier: 
+  _levelNumber: 2
+  _paths:
+  - {fileID: 3325251453764232910, guid: 59c09e76986fb0041bc2d5c903c648a7, type: 3}
+  - {fileID: 89945058876311370, guid: 76b3b037f06e6dd4297a3e11574d840e, type: 3}
+  - {fileID: 2756760664529088444, guid: 56011344e2e3cc04aa40856ceb16897d, type: 3}
+  - {fileID: 6320321543275185186, guid: 84c7cd9a8de808f48b5aee4596e24bed, type: 3}
+  _offsetOfPaths:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 129}
+  - {x: 0, y: 0, z: 258}
+  - {x: 0, y: 0, z: 387}

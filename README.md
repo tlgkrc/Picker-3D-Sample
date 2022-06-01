@@ -8,5 +8,9 @@ Methods used during the development phase of this game
 - Game Events
 - Prefab Variant
 
+                                        --------------Here Youtube GamePlay Link--------------
+                                                    https://youtu.be/l18ZIyYiEQo
+
+
 Tolga Karaca
 tolgakaraca.official@gmail.com
